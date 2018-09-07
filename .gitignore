@@ -2,6 +2,6 @@
 .classpath
 .factorypath
 .apt_generated
-.setting
+.settings
 /log/
 /target/
